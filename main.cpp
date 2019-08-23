@@ -5,7 +5,7 @@ using  namespace std;
 
 int main(){
 
-    int opcionMenu;//para guradr la operacion del usuario
+    int opcionMenu;//para guardar la operacion del usuario
 
     do{
         cout<<"1. Insert image"<<endl;
@@ -15,10 +15,11 @@ int main(){
         cout<<"5. Export Image"<<endl;
         cout<<"6. Reports"<<endl;
         cout<<"7. Exit"<<endl;
-	   cin>>opcionMenu;
+	    cin>>opcionMenu;
 
 	   //incio de las opciones del menu
 	   switch (opcionMenu) {
+
 		//opcion de insercion de imagenes
 	   	case 1:
 			cout<<"insercion de imagen"<<endl;
