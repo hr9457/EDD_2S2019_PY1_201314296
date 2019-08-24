@@ -1,3 +1,0 @@
-C:/Users/HECTOR/Documents/EDD/EDD_2S2019_PY1_201314296/cmake-build-debug/CMakeFiles/EDD_2S2019_PY1_201314296.dir
-C:/Users/HECTOR/Documents/EDD/EDD_2S2019_PY1_201314296/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/HECTOR/Documents/EDD/EDD_2S2019_PY1_201314296/cmake-build-debug/CMakeFiles/rebuild_cache.dir

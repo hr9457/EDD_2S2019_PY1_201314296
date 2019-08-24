@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\EDD_2S2019_PY1_201314296.dir/objects.a
-C:\MinGW\bin\ar.exe cr CMakeFiles\EDD_2S2019_PY1_201314296.dir/objects.a @CMakeFiles\EDD_2S2019_PY1_201314296.dir\objects1.rsp
-C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\EDD_2S2019_PY1_201314296.dir/objects.a -Wl,--no-whole-archive  -o EDD_2S2019_PY1_201314296.exe -Wl,--out-implib,libEDD_2S2019_PY1_201314296.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EDD_2S2019_PY1_201314296.dir\linklibs.rsp
