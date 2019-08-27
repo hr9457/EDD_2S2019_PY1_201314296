@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1566689855 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
+	<iostream>
+	<conio.h>
+	<string>
+	"listaCDE.h"
+
+1566871432 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\listacde.cpp
+	"listaCDE.h"
+	"nodoLCDE.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1566868035 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\listacde.h
+	"nodoLCDE.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1566868192 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\nodolcde.cpp
+	"nodoLCDE.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1566868415 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodolcde.h
+	<string>
+	<iostream>
+
