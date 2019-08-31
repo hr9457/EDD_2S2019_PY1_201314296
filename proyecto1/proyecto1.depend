@@ -1,22 +1,24 @@
 # depslib dependency file v1.0
-1566689855 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
+1567222872 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
 	<iostream>
 	<conio.h>
 	<string>
 	"listaCDE.h"
 
-1566871432 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\listacde.cpp
+1567224211 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\listacde.cpp
 	"listaCDE.h"
 	"nodoLCDE.h"
 	<iostream>
 	<conio.h>
 	<string>
+	<fstream>
 
-1566868035 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\listacde.h
+1567221265 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\listacde.h
 	"nodoLCDE.h"
 	<iostream>
 	<conio.h>
 	<string>
+	<fstream>
 
 1566868192 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\nodolcde.cpp
 	"nodoLCDE.h"
@@ -24,7 +26,7 @@
 	<conio.h>
 	<string>
 
-1566868415 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodolcde.h
+1566943574 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodolcde.h
 	<string>
 	<iostream>
 

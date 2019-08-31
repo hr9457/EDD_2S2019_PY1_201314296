@@ -4,6 +4,7 @@
 #include <iostream>
 #include <conio.h>
 #include <string>
+#include <fstream>//LIBRERIA PARA GENERAR ARCHIVO
 
 using namespace std;
 
@@ -13,13 +14,15 @@ class listaCDE
         int tamanioLista;
         nodoLCDE *cabezaLista;
         nodoLCDE *colaLista;
+        ofstream archivoListaCDE;
 
     public:
         listaCDE();
         void agregarLista(string);
         void eliminarLista();
         void imprimirLista();
-
+        void generarDot();
+        void generarImagen();
 };
 
 #endif // LISTACDE_H
