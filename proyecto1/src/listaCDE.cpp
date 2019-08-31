@@ -4,6 +4,7 @@
 #include <conio.h>
 #include <string>
 #include <fstream>//LIBRERIA PARA GENERAR ARCHIVOS
+#include <stdlib.h>//PARA LA EJECUCION DE COMANDOS EN CMD
 
 using namespace std;
 
@@ -103,6 +104,7 @@ void listaCDE::generarDot(){
 
 //METODO PARA GENEAR LA IMGAEN DEL ARCHIVO
 void listaCDE::generarImagen(){
+    system("dot -Tpng C:\\Users\\HECTOR\\Documents\\EDD\\EDD_2S2019_PY1_201314296\\proyecto1\\listaCDE.txt -o C:\\Users\\HECTOR\\Documents\\EDD\\EDD_2S2019_PY1_201314296\\proyecto1\\listaCDE.png");
 }
 
 

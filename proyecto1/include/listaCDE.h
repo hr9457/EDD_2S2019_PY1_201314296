@@ -23,6 +23,7 @@ class listaCDE
         void imprimirLista();
         void generarDot();
         void generarImagen();
+        void aperturaImagen();
 };
 
 #endif // LISTACDE_H

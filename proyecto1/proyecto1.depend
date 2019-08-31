@@ -1,19 +1,20 @@
 # depslib dependency file v1.0
-1567222872 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
+1567229801 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
 	<iostream>
 	<conio.h>
 	<string>
 	"listaCDE.h"
 
-1567224211 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\listacde.cpp
+1567229763 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\listacde.cpp
 	"listaCDE.h"
 	"nodoLCDE.h"
 	<iostream>
 	<conio.h>
 	<string>
 	<fstream>
+	<stdlib.h>
 
-1567221265 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\listacde.h
+1567229339 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\listacde.h
 	"nodoLCDE.h"
 	<iostream>
 	<conio.h>
@@ -29,4 +30,26 @@
 1566943574 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodolcde.h
 	<string>
 	<iostream>
+
+1567232194 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\nodoarbol.cpp
+	"nodoArbol.h"
+	<iostream>
+	<string>
+
+1567232487 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodoarbol.h
+	<iostream>
+	<string>
+
+1567232468 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\arbolbinario.cpp
+	"arbolBinario.h"
+	"nodoArbol.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+
+1567230843 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\arbolbinario.h
+	"nodoArbol.h"
+	<iostream>
+	<string>
 
