@@ -1,0 +1,18 @@
+digraph arbol
+{
+rankdir=TB;
+graph [splines=ortho, nodesep=0.5];
+node [shape = record, style=filled, fillcolor=seashell2,width=0.7,height=0.2];
+nodoMario1 [ label = " <ant> | Mario1 | <next> " ]; 
+nodoBoo [ label = " <ant> | Boo | <next> " ]; 
+nodoGeoff [ label = " <ant> | Geoff | <next> " ]; 
+nodoPickachu [ label = " <ant> | Pickachu | <next> " ]; 
+nodoMario2 [ label = " <ant> | Mario2 | <next> " ]; 
+nodoMushroom [ label = " <ant> | Mushroom | <next> " ]; 
+
+nodoMario1:ant->nodoBoo;
+nodoBoo:next->nodoGeoff;
+nodoMario1:next->nodoPickachu;
+nodoPickachu:ant->nodoMario2;
+nodoMario2:next->nodoMushroom;
+}

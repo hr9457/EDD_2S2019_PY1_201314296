@@ -34,10 +34,14 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/arbolBinario.h" />
 		<Unit filename="include/listaCDE.h" />
+		<Unit filename="include/nodoArbol.h" />
 		<Unit filename="include/nodoLCDE.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/arbolBinario.cpp" />
 		<Unit filename="src/listaCDE.cpp" />
+		<Unit filename="src/nodoArbol.cpp" />
 		<Unit filename="src/nodoLCDE.cpp" />
 		<Extensions>
 			<code_completion />

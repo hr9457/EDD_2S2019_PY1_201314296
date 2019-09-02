@@ -1,0 +1,16 @@
+digraph G
+{
+rankdir = LR
+nodo0  [ shape = oval, label = "Mario1"];
+nodo1  [ shape = oval, label = "Boo"];
+nodo2  [ shape = oval, label = "Geoff"];
+nodo3  [ shape = oval, label = "Pickachu"];
+nodo4  [ shape = oval, label = "Mario2"];
+nodo5  [ shape = oval, label = "Mushroom"];
+
+nodo0->nodo1
+nodo1->nodo2
+nodo2->nodo3
+nodo3->nodo4
+nodo4->nodo5
+}
