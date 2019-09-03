@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1567388476 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
+1567388805 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
 	"listaCDE.h"
 	"arbolBinario.h"
 	<iostream>
@@ -42,7 +42,7 @@
 	<iostream>
 	<string>
 
-1567388606 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\arbolbinario.cpp
+1567394614 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\arbolbinario.cpp
 	"arbolBinario.h"
 	"nodoArbol.h"
 	<iostream>

@@ -19,6 +19,7 @@ int main()
     lista.agregarLista("salazar");
     lista.generarDot();
     */
+    /*
     arbolBinario arbol;
     arbol.insertarNodo("Mario1");
     arbol.insertarNodo("Boo");
@@ -31,5 +32,6 @@ int main()
     //arbol.ArchivopreOrder();
     //arbol.ArchivoposOrder();
     arbol.ArchivoinOrder();
+    */
     return 0;
 }

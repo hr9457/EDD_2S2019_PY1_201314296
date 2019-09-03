@@ -93,7 +93,7 @@ void arbolBinario::generarDot(){
         archivo<<"digraph arbol"<<endl;
         archivo<<"{"<<endl;
         archivo<<"rankdir=TB;"<<endl;
-        archivo<<"graph [splines=ortho, nodesep=0.5];"<<endl;
+        archivo<<"graph [splines=compund, nodesep=0.5];"<<endl;
         archivo<<"node [shape = record, style=filled, fillcolor=seashell2,width=0.7,height=0.2];"<<endl;
        //CILCOS PARA LA AGREGACION DE LOS NODO DENTRO DEL ARCHIVO
         recorridoArbol(raiz);//DIBUJA LOS NODOS
@@ -140,7 +140,7 @@ void arbolBinario::ArchivoinOrder(){
     }
 }
 
-void arbolBinario::ArchivoinOrder(){
+void arbolBinario::generarImagenInOrder(){
     system("dot -Tpng C:\\Users\\HECTOR\\Documents\\EDD\\EDD_2S2019_PY1_201314296\\proyecto1\\arbolBinarioInOrder.txt -o C:\\Users\\HECTOR\\Documents\\EDD\\EDD_2S2019_PY1_201314296\\proyecto1\\arbolBinarioInOrder.png");
 }
 //-----------------------------------------------------------------------------------------------------

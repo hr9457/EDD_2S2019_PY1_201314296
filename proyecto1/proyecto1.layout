@@ -7,19 +7,14 @@
 			<Cursor1 position="3899" topLine="86" />
 		</Cursor>
 	</File>
-	<File name="src\arbolBinario.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="5148" topLine="122" />
-		</Cursor>
-	</File>
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="669" topLine="8" />
-		</Cursor>
-	</File>
 	<File name="src\nodoLCDE.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="122" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\nodoArbol.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="include\nodoLCDE.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -27,14 +22,19 @@
 			<Cursor1 position="246" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="include\arbolBinario.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\arbolBinario.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="941" topLine="12" />
+			<Cursor1 position="5332" topLine="135" />
 		</Cursor>
 	</File>
-	<File name="src\nodoArbol.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\arbolBinario.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="449" topLine="0" />
+			<Cursor1 position="700" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="803" topLine="11" />
 		</Cursor>
 	</File>
 	<File name="include\listaCDE.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
