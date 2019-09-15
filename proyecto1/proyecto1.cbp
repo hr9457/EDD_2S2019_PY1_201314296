@@ -36,13 +36,17 @@
 		</Compiler>
 		<Unit filename="include/arbolBinario.h" />
 		<Unit filename="include/listaCDE.h" />
+		<Unit filename="include/matrizDispersa.h" />
 		<Unit filename="include/nodoArbol.h" />
 		<Unit filename="include/nodoLCDE.h" />
+		<Unit filename="include/nodoMatriz.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/arbolBinario.cpp" />
 		<Unit filename="src/listaCDE.cpp" />
+		<Unit filename="src/matrizDispersa.cpp" />
 		<Unit filename="src/nodoArbol.cpp" />
 		<Unit filename="src/nodoLCDE.cpp" />
+		<Unit filename="src/nodoMatriz.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
