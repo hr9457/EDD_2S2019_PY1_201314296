@@ -2,14 +2,14 @@
 <CodeBlocks_layout_file>
 	<FileVersion major="1" minor="0" />
 	<ActiveTarget name="Debug" />
-	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+	<File name="src\cubo.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="805" topLine="12" />
+			<Cursor1 position="64" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="src\matrizDispersa.cpp" open="1" top="1" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\listaCDE.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="88" topLine="0" />
+			<Cursor1 position="336" topLine="4" />
 		</Cursor>
 	</File>
 	<File name="src\listaCDE.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
@@ -17,9 +17,29 @@
 			<Cursor1 position="3899" topLine="86" />
 		</Cursor>
 	</File>
-	<File name="src\nodoLCDE.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\nodoArbol.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="122" topLine="0" />
+			<Cursor1 position="449" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\nodoMatriz.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\arbolBinario.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5332" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="include\matrizDispersa.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="src\insertImage.cpp" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="668" topLine="21" />
 		</Cursor>
 	</File>
 	<File name="include\nodoLCDE.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -32,19 +52,38 @@
 			<Cursor1 position="700" topLine="9" />
 		</Cursor>
 	</File>
-	<File name="src\arbolBinario.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="5332" topLine="0" />
+			<Cursor1 position="1806" topLine="42" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="22" />
+		</Folding>
+	</File>
+	<File name="include\cubo.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="196" topLine="3" />
 		</Cursor>
 	</File>
-	<File name="src\nodoArbol.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\matrizDispersa.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="449" topLine="0" />
+			<Cursor1 position="140" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="include\listaCDE.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\insertImage.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="6" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="336" topLine="4" />
+			<Cursor1 position="171" topLine="4" />
+		</Cursor>
+	</File>
+	<File name="include\nodoMatriz.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="615" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="src\nodoLCDE.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="122" topLine="0" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>

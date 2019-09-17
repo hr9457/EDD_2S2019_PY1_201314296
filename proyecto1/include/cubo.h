@@ -10,6 +10,7 @@ using namespace std;
 class cubo
 {
     private:
+        string nombreCapa;
         int tamanioCubo;
         nodoCubo *inicioCubo;
         nodoCubo *finalCubo;

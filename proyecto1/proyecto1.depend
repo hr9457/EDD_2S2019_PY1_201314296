@@ -1,7 +1,8 @@
 # depslib dependency file v1.0
-1567480661 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
+1568687708 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\main.cpp
 	"listaCDE.h"
 	"arbolBinario.h"
+	"insertImage.h"
 	<iostream>
 	<conio.h>
 	<string>
@@ -71,5 +72,32 @@
 1567487013 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\matrizdispersa.cpp
 	"matrizDispersa.h"
 
-1567486922 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\matrizdispersa.h
+1568599815 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\matrizdispersa.h
+
+1568600317 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\cubo.cpp
+	"cubo.h"
+
+1568600064 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\cubo.h
+	"nodoCubo.h"
+	<iostream>
+	<conio.h>
+	<string>
+
+1568517718 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\nodocubo.h
+	"nodoMatriz.h"
+
+1568514638 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\nodocubo.cpp
+	"nodoCubo.h"
+
+1568693541 source:c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\src\insertimage.cpp
+	"insertImage.h"
+	<fstream>
+	<iostream>
+	<conio.h>
+	<string>
+	<stdlib.h>
+
+1568692553 c:\users\hector\documents\edd\edd_2s2019_py1_201314296\proyecto1\include\insertimage.h
+	<string>
+	<conio.h>
 

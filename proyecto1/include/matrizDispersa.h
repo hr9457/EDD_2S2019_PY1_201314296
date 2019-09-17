@@ -2,6 +2,7 @@
 #define MATRIZDISPERSA_H
 
 
+
 class matrizDispersa
 {
     private:
